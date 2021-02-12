@@ -1,1 +1,1 @@
-# CAF Config Catalog
+# CAF Landingzone Config Catalog
