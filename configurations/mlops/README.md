@@ -20,14 +20,4 @@ We do not have any specific configuration for level 1 and use the generic level 
 
 ## Setting up your environment
 
-First you need to clone the repos to your machine
-
-````bash
-    git clone https://github.com/cse-kratos/terraform-azurerm-caf.git /tf/caf/public/modules
-
-    git clone https://github.com/cse-kratos/terraform-provider-azurecaf.git /tf/caf/public/providers
-
-    git clone https://github.com/cse-kratos/caf-terraform-landingzones.git /tf/caf/public/landingzones
-
-    ```
-````
+See [Starter Repo](https://github.com/cse-kratos/caf-terraform-landingzones-starter) to create your shell repo then within each level in this repo will tell you how to deploy each level

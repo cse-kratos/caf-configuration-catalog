@@ -42,7 +42,7 @@ rover -lz /tf/caf/public/landingzones/landingzones/caf_launchpad \
 
 ## Architecture Diagram
 
-TBD
+![image info](../../assets/mlops.png)
 
 ## Services
 
