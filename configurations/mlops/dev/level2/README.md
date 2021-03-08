@@ -12,22 +12,20 @@
 
 ### CAF Shared Services
 
-* TBD
-
 ### Common Services
 
-* Azure Storage Account ADLS
-* Application Insights
-* Azure Container Registries
-* Azure KeyVault
+- Azure Storage Account ADLS
+- Application Insights
+- Azure Container Registries
+- Azure KeyVault
 
 ### Networking - Single Hub and Spoke
 
-* Vnets
-* Network Security Groups
-* IPaddresses
-* Firewall
-* routes
+- Vnets
+- Network Security Groups
+- IPaddresses
+- Firewall
+- routes
 
 ## Deploy using Rover
 
