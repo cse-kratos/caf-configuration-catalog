@@ -12,11 +12,15 @@ Creates permissions to each level, the storage account where the terraform state
 
 ### Level 1
 
-We do not have any specific configuration for level 1 and use the generic level one landing zones as a passthrough
+TODO
 
 ### Level 2
 
+TODO
+
 ### Level 3
+
+TODO
 
 ## Setting up your environment
 
