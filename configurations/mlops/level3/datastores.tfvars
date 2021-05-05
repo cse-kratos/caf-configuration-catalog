@@ -129,7 +129,7 @@ app_config = {
     settings = {
       "ADLS_FILESYSTEM"       = "source$Default"
       "BLOB_NAME"             = "process-all-blobs"
-      "COMPUTE_NAME"          = "hyas-aml"
+      "COMPUTE_NAME"          = "customer-aml"
       "ENVIRONMENT_NAME"      = "DEV"
       "EXPERIMENT_NAME"       = "model-scoring"
       "MODEL_IS_ACTIVE"       = "True"
@@ -146,7 +146,7 @@ app_config = {
       "VM_PRIORITY" = "VM_PRIORITY"
       "DATA_PREP_IMAGE" = "data-prep"
       "LOGICAL_PIPELINE_CORRELATION_ID" = "none"
-      "LOGICAL_PIPELINE_PHASE_ID" = "hyas-protect-phase"
+      "LOGICAL_PIPELINE_PHASE_ID" = "phase"
     }
   }
 }

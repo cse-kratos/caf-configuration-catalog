@@ -18,7 +18,7 @@ regions = {
 tags = {
   environment    = "dev"
   deploymentType = "CAF"
-  application = "hyas-protect-mlops"
+  application = "APPLICATION-NAME"
 }
 
 
